@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "Basics.DoWhile",
+            "projectName": "Java-DataStructures_dc44d9c4"
+        },
+        {
+            "type": "java",
             "name": "WhileLoop",
             "request": "launch",
             "mainClass": "Basics.LoopsAndCondationals.WhileLoop",
