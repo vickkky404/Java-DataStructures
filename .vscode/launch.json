@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Loop2",
+            "request": "launch",
+            "mainClass": "Basics.LoopsAndCondationals.Loop2",
+            "projectName": "Java-DataStructures_dc44d9c4"
+        },
+        {
+            "type": "java",
             "name": "SwitchCase",
             "request": "launch",
             "mainClass": "PracticeQ.SwitchCase",
