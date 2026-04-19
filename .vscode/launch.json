@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CaseCheck",
+            "request": "launch",
+            "mainClass": "PracticeQ.CaseCheck",
+            "projectName": "Java-DataStructures_dc44d9c4"
+        },
+        {
+            "type": "java",
             "name": "LargestNumberOptimized",
             "request": "launch",
             "mainClass": "PracticeQ.LargestNumberOptimized",
